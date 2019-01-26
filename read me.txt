@@ -1,0 +1,1 @@
+The files named by alogrithm contain a main matlab file and the function it needs. Some methods use another file containing the functions. LibSVM and data are contained in corresponding files.
